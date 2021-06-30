@@ -6,3 +6,6 @@ ok new bracnch, we add text here...
 
 
 now on linux, make changes and commit.
+
+
+and now more changes
